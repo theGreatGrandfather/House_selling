@@ -1,0 +1,15 @@
+._container {
+  padding: 0 23px;
+  margin-left: auto;
+  margin-right: auto;
+  @media screen and (max-width: 767px){
+    padding: 0 10px;
+  }
+}
+._section {
+  padding-top: 84px;
+  padding-bottom: 84px;
+  max-width: 1440px;  
+  margin-left: auto;
+  margin-right: auto;
+}

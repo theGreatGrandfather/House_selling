@@ -1,0 +1,9 @@
+.photos__list {
+  padding-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  align-items: center; }
+
+/*# sourceMappingURL=photos.css.map */

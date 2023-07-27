@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACV,OAAO,EAAE,MAAM;EACf,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,oCAAoC;IAJtC,WAAY;MAKR,OAAO,EAAE,MAAM;;AAGnB,SAAU;EACR,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,SAAS,EAAE,MAAM;EACjB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI",
+"sources": ["../sass/component.scss"],
+"names": [],
+"file": "component.css"
+}
